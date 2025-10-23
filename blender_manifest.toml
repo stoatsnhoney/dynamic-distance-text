@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "dynamic_distance_text"
+version = "1.0.0"
+name = "Dynamic Distance Text"
+tagline = "Change text dynamically by object distance"
+maintainer = "Jay Friesen <jaymfriesen@outlook.com>"
+type = "add-on"
+
+website = "https://github.com/stoatsnhoney/add-frame-range-presets-blender-addon"
+
+tags = ["Oject"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+   "2025 Jay Friesen",
+]
