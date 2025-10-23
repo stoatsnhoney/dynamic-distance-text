@@ -1,7 +1,5 @@
-# Add Frame Range Presets Add-On for Blender
-A simple Blender add-on that adds a panel to the Output Properties tab. You can create preset frame ranges from this panel and even make automatic presets from existing markers.
+# Dynamic Distance Text add-on for Blender
+Dynamic Distance Text lets you dynamically adjust a text object to display the distance to a target object. Useful for HUDs or UIs.
 
 # How to Use
-After installing, you will find a new panel in the Output Properties tab. You can save the current frame range as a preset or automatically generate presets from existing markers on the timeline. The last marker's preset defaults to a range of 100 frames. You can adjust this to your liking in add-on preferences.
-
-Also available on [Blender Extensions](https://extensions.blender.org/add-ons/add-frame-range-presets/) and [Gumroad](http://stoatsnhoney.gumroad.com).
+After installing, you will find a new panel in the text Object Data tab. You click on your desired text, add a target object in the new panel, and the text will now display as the distance in meters to the target object. You can adjust the scale of the displayed distance, and bake it to an animation.

@@ -7,9 +7,9 @@ tagline = "Change text dynamically by object distance"
 maintainer = "Jay Friesen <jaymfriesen@outlook.com>"
 type = "add-on"
 
-website = "https://github.com/stoatsnhoney/add-frame-range-presets-blender-addon"
+website = "https://github.com/stoatsnhoney/dynamic-distance-text"
 
-tags = ["Oject"]
+tags = ["Object"]
 
 blender_version_min = "4.2.0"
 
